@@ -1,12 +1,15 @@
 # 👋 Hello, I'm Ameer Riyaz! 🌸
 
 ### **Anime Enthusiast** | 💻 **Blockchain Developer**
+![Anime and Blockchain](https://media.giphy.com/media/ULHZqMGIDqX9ZfMoNm/giphy.gif.)
 
 ---
 
 Yo! I'm a passionate developer who thrives on building decentralized solutions and getting inspired by the vibrant world of **anime**. When I’m not diving deep into the world of **blockchain**, you’ll probably find me watching the latest anime series or working on anime-inspired projects. 🎥✨
 
 ---
+
+![Blockchain Developer](https://img.shields.io/badge/-Blockchain_Dev-purple?logo=ethereum)
 
 ## 🛠️ Technologies & Tools
 
