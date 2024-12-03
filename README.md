@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Ameer Riyaz! 🌸
 
 ### **Anime Enthusiast** | 💻 **Blockchain Developer**
-![Anime and Blockchain](https://media.giphy.com/media/ULHZqMGIDqX9ZfMoNm/giphy.gif.)
+
 
 ---
 
