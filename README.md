@@ -1,102 +1,101 @@
-# 👋 Hello, I'm Ameer Riyaz! 🌸
+# 👋 Hello, I'm Ameer Riyaz! 🎮✨
 
-### **Anime Enthusiast** | 💻 **Blockchain Developer**
-
-
----
-
-Yo! I'm a passionate developer who thrives on building decentralized solutions and getting inspired by the vibrant world of **anime**. When I’m not diving deep into the world of **blockchain**, you’ll probably find me watching the latest anime series or working on anime-inspired projects. 🎥✨
+### **Anime Enthusiast** | 💻 **Blockchain Developer** | 🎮 **Gamer**
 
 ---
 
-![Blockchain Developer](https://img.shields.io/badge/-Blockchain_Dev-purple?logo=ethereum)
+> _"The worlds of **anime**, **gaming**, and **blockchain** are boundless. Together, let's innovate, create, and play our way into the future!"_ 🚀✨
 
-## 🛠️ Technologies & Tools
+---
 
-### 🔗 **Blockchain**:
+![Blockchain Developer](https://img.shields.io/badge/-Blockchain_Dev-purple?logo=ethereum&style=for-the-badge) 
+![Anime Lover](https://img.shields.io/badge/-Anime_Lover-pink?logo=crunchyroll&style=for-the-badge) 
+![Gamer](https://img.shields.io/badge/-Gamer-blue?logo=playstation&style=for-the-badge)
+
+---
+
+## 🛠️ Technologies & Tools + 📈 GitHub Stats
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### **Technologies**
+#### 🔗 **Blockchain**:
 - **Smart Contracts**: Solidity, Hyperledger Fabric
 - **Blockchain Platforms**: Ethereum, Binance Smart Chain, Polkadot
 - **Web3**: Web3.js, Ethers.js
 
-### 🎮 **Programming Languages**:
+#### 🎮 **Programming**:
 - JavaScript (Node.js)
-- C, Rust, Go (for Hyperledger Fabric)
-- Solidity
-- Python (for scripting and tools)
+- C, Rust, Go (Hyperledger)
+- Python (Tools & Scripts)
 
-### 🌐 **Web Development**:
+#### 🌐 **Web Development**:
 - **Backend**: Express.js, Node.js
 - **Databases**: MongoDB, PostgreSQL
 
-### ⚡ **Tools & Frameworks**:
+#### ⚡ **Tools**:
 - Docker, Kubernetes, Ansible
 - Git, GitHub Actions, CI/CD
 - Truffle, Hardhat
+
+</td>
+<td valign="top" width="50%">
+
+### **GitHub Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmeerRiyaz&show_icons=true&count_private=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmeerRiyaz&layout=compact&theme=radical)
+
+### **GitHub Streak**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmeerRiyaz&theme=radical)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 Contribution & Activity Graphs
+
+![Ameer's Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmeerRiyaz&theme=radical)  
+
+![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmeerRiyaz&theme=radical)  
+
+
 
 ---
 
 ## 💡 Current Projects
 
 ### 🔧 **ChainCraft**: 
-A chaincode generator for **Hyperledger Fabric**. I’m creating an easy-to-use CLI tool to help developers generate **Hyperledger chaincode templates** dynamically with a simple command.
+> **A chaincode generator for Hyperledger Fabric.**  
+I’m creating an easy-to-use CLI tool to help developers generate **Hyperledger chaincode templates** dynamically with a simple command.
 
 ---
 
-## 🌸 Anime & Blockchain
+## 🌸 Anime, Gaming & Blockchain
 
-I believe that **technology** and **anime** have a lot in common — both inspire creativity and bring people together from all walks of life. Combining my passion for **blockchain development** with anime culture, I aim to create unique projects and tools that bridge these two worlds. Some of my anime-inspired projects include:
+I believe **technology**, **anime**, and **gaming** inspire creativity and connect people from all walks of life. Combining my passion for **blockchain development**, anime culture, and gaming, I strive to bridge these worlds with innovative projects.
 
-### 🌟 **Anime Projects**:
+### 🌟 **Anime & Gaming Projects Ideas**:
 - **NFT Anime Collectibles**: A platform for minting, trading, and collecting NFT-based anime art.
-- **Anime Token**: A decentralized token for anime fans, used to unlock exclusive content, merchandise, and experiences.
+- **Anime Token**: A decentralized token for anime fans, unlocking exclusive content, merchandise, and experiences.
+- **GameFi Adventures**: Blockchain-powered RPGs and adventure games inspired by anime and fantasy.
 
 ---
 
-## 💬 Let's Connect!
+## 🎨 Featured Anime, Gaming & Blockchain Inspiration
 
-- 📬 **Email**: [ameerriyaz25@gmail.com](mailto:ameerriyaz25@gmail.com)
-- 🐦 **Twitter**: [@AmeerRiyaz](https://twitter.com/AmeerRiyaz111)
-- 🌐 **LinkedIn**: [@AmeerRiyaz](https://www.linkedin.com/in/ameer-riyaz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- 🌸 **Anime Blog**: [Anime Blockchain Blog (Coming Soon!)](https://www.example.com)
+> _"Just as each anime character and gaming hero has a unique journey, so does every blockchain project. The adventure of decentralized innovation awaits!"_
 
----
-
-## 📈 GitHub Stats
-
-![Ameer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmeerRiyaz&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
----
-
-## 🌟 GitHub Stats & Activity
-
-### 🧑‍💻 **Commits Over Time**
-![Ameer Riyaz's GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=AmeerRiyaz&theme=radical)
-
-### 🏆 **Most Used Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmeerRiyaz&layout=compact&theme=radical)
-
-### 📅 **Contribution Calendar**
-![Ameer's GitHub Contribution Calendar](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmeerRiyaz&theme=radical)
-
----
-
-## 🌟 Featured Anime & Blockchain Inspiration
-
-> "Just as each anime character has a unique journey, so does every blockchain project. The adventure of decentralized innovation awaits!" 🚀✨
-
----
-
-### 🎨 My Favorite Anime Inspirations:
-
-- **Attack on Titan**: Like the Titans breaking barriers, I believe blockchain is shattering the walls of centralized control.
-- **Naruto**: Just like Naruto, I aim to bring value to the world with my development skills.
-- **One Piece**: Building the future of decentralized games, Treasures, and NFTs!
-
----
-
-## 🦸‍♂️ Fun Fact:
-
-In the world of anime and blockchain, anything is possible — **the only limit is your imagination**! 💡💫
+### My Favorites:
+- **Attack on Titan**: Breaking barriers, like blockchain shatters centralized control.
+- **Naruto**: Bringing value and resilience through development.
+- **One Piece**: Exploring decentralized games, treasures, and NFTs.
+- **The Legend of Zelda**: Innovative problem-solving meets creativity.
+- **Valorant & CS**: Sharpening critical thinking and leadership through gameplay.
 
 ---
 
@@ -110,4 +109,16 @@ In the world of anime and blockchain, anything is possible — **the only limit 
 
 ---
 
-Feel free to contribute, ask questions, or collaborate on any of my projects! 🙌 Let’s bring the world of **anime** and **blockchain** together! 🌍💖
+## 💬 Let's Connect!
+
+📬 **Email**: [ameerriyaz25@gmail.com](mailto:ameerriyaz25@gmail.com)  
+🐦 **Twitter**: [@AmeerRiyaz](https://twitter.com/AmeerRiyaz111)  
+🌐 **LinkedIn**: [@AmeerRiyaz](https://www.linkedin.com/in/ameer-riyaz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+🌸 **Anime Blog**: [Anime Blockchain Blog (Coming Soon!)]
+
+---
+
+## 🦸‍♂️ Fun Fact
+
+In the world of **anime**, **gaming**, and **blockchain**, the only limit is your imagination! 💡💫  
+Feel free to contribute, ask questions, or collaborate on my projects. Let’s bring these worlds together! 🌍💖
