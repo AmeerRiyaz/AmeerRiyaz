@@ -23,7 +23,7 @@
 ### **Technologies**
 #### 🔗 **Blockchain**:
 - **Smart Contracts**: Solidity, Hyperledger Fabric
-- **Blockchain Platforms**: Ethereum, Binance Smart Chain, Polkadot
+- **Blockchain Platforms**: Ethereum, Binance Smart Chain, Hyperledger Fabric
 - **Web3**: Web3.js, Ethers.js
 
 #### 🎮 **Programming**:
