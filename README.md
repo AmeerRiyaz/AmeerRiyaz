@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B42BC,100:326CE5&height=240&section=header&text=Ameer%20Riyaz&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Senior%20Project%20Engineer%20-%20DevOps%20and%20Platform%20Engineering&descSize=20&descAlignY=58" width="100%" alt="Ameer Riyaz" />
+<img src="./banner.svg" width="100%" alt="Ameer Riyaz - Senior Project Engineer, DevOps and Platform Engineering" />
 
 <a href="https://github.com/AmeerRiyaz">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&height=45&lines=terraform+apply+-auto-approve;kubectl+get+nodes+%28HA+cluster+ready%29;ansible-playbook+site.yml;argocd+app+sync+production;Architecting+apps+for+government+%26+enterprise" alt="Typing SVG" />
@@ -17,6 +17,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=AmeerRiyaz&label=Profile+Views&color=7B42BC&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/AmeerRiyaz?label=Followers&style=for-the-badge&color=326CE5&logo=github)
+![Location](https://img.shields.io/badge/Hyderabad,_India-7B42BC?logo=googlemaps&logoColor=white&style=for-the-badge)
 
 </div>
 
@@ -105,7 +106,6 @@ flowchart LR
 
 ---
 
-
 ## 🏅 Certifications
 
 <div align="center">
@@ -125,12 +125,26 @@ flowchart LR
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AmeerRiyaz&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeerRiyaz&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AmeerRiyaz&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeerRiyaz&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=AmeerRiyaz&theme=radical&hide_border=true" alt="GitHub streak" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=AmeerRiyaz&theme=radical&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmeerRiyaz&theme=react-dark&hide_border=true&area=true&color=A78BFA&line=7B42BC&point=ffffff" alt="Contribution graph" width="100%" />
+
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmeerRiyaz/AmeerRiyaz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmeerRiyaz/AmeerRiyaz/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/AmeerRiyaz/AmeerRiyaz/output/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -147,7 +161,5 @@ flowchart LR
 <br/>
 
 *Infrastructure should be code, deployments should be boring, and clusters should survive a node failure.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B42BC,100:326CE5&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
