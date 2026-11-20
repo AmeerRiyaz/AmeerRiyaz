@@ -19,10 +19,26 @@
 ![Followers](https://img.shields.io/github/followers/AmeerRiyaz?label=Followers&style=for-the-badge&color=326CE5&logo=github)
 ![Location](https://img.shields.io/badge/Hyderabad,_India-7B42BC?logo=googlemaps&logoColor=white&style=for-the-badge)
 
+<br/>
+
+[![About](https://img.shields.io/badge/About-7B42BC?style=flat-square)](#about)
+[![Pipeline](https://img.shields.io/badge/Pipeline-326CE5?style=flat-square)](#pipeline)
+[![Architecture](https://img.shields.io/badge/HA_Architecture-326CE5?style=flat-square)](#architecture)
+[![Toolbox](https://img.shields.io/badge/Toolbox-7B42BC?style=flat-square)](#toolbox)
+[![Journey](https://img.shields.io/badge/Journey-326CE5?style=flat-square)](#journey)
+[![Certifications](https://img.shields.io/badge/Certifications-7B42BC?style=flat-square)](#certs)
+[![Stats](https://img.shields.io/badge/Stats-326CE5?style=flat-square)](#stats)
+[![Contact](https://img.shields.io/badge/Contact-7B42BC?style=flat-square)](#contact)
+
+<br/>
+
+[![Download Resume](https://img.shields.io/badge/Download-Resume_PDF-7B42BC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Shaik_Ameer_Riyaz_Resume.pdf)
+
 </div>
 
 ---
 
+<a id="about"></a>
 ## ⚙️ About Me
 
 I design, build and run distributed applications for government and enterprise clients at **C-DAC, Hyderabad**. I own solution architecture and design, build HA and standard Kubernetes clusters on AWS and on-premise, and automate everything with Terraform and Ansible. My domain specialty is **Hyperledger Fabric** and **Besu**.
@@ -60,8 +76,60 @@ flowchart LR
     F --> J[Prometheus + Grafana]
 ```
 
+<a id="pipeline"></a>
+### ⚡ Live Pipeline
+
+<div align="center">
+
+<img src="./pipeline.svg" width="100%" alt="Animated delivery pipeline from code to Kubernetes" />
+
+</div>
+
 ---
 
+<a id="architecture"></a>
+## 🏗️ HA Kubernetes Reference Architecture
+
+A reference topology for the highly available clusters I build with Terraform and Ansible.
+
+```mermaid
+flowchart TB
+    U([Users / Clients]) --> LB{{Load Balancer}}
+    LB --> CP1
+    LB --> CP2
+    LB --> CP3
+
+    subgraph CP[Control Plane - highly available]
+        CP1[Control Plane Node 1]
+        CP2[Control Plane Node 2]
+        CP3[Control Plane Node 3]
+        ETCD[(etcd cluster)]
+        CP1 --- ETCD
+        CP2 --- ETCD
+        CP3 --- ETCD
+    end
+
+    CP1 --> W1
+    CP2 --> W2
+    CP3 --> W3
+
+    subgraph WK[Worker Nodes]
+        W1[Worker 1]
+        W2[Worker 2]
+        W3[Worker 3]
+    end
+
+    W1 --> ING[Ingress / Services]
+    W2 --> ING
+    W3 --> ING
+    ING --> APP[Application Pods]
+    APP --> PV[(Persistent Volumes)]
+    WK -.metrics.-> MON[Prometheus + Grafana]
+```
+
+---
+
+<a id="toolbox"></a>
 ## 🧰 DevOps Toolbox
 
 <div align="center">
@@ -106,6 +174,21 @@ flowchart LR
 
 ---
 
+<a id="journey"></a>
+## 🧭 My Journey
+
+```mermaid
+timeline
+    title Career and Education Timeline
+    2016 - 2020 : B.Tech in ECE : Guru Nanak Institution Technical Campus
+    2021 : Joined C-DAC as Project Engineer : DevOps and blockchain delivery
+    2022 - 2024 : M.Tech in Software Engineering : BITS Pilani
+    2026 : Promoted to Senior Project Engineer : Architecture and design ownership
+```
+
+---
+
+<a id="certs"></a>
 ## 🏅 Certifications
 
 <div align="center">
@@ -121,6 +204,7 @@ flowchart LR
 
 ---
 
+<a id="stats"></a>
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -133,6 +217,14 @@ flowchart LR
 <img src="https://github-profile-trophy.vercel.app/?username=AmeerRiyaz&theme=radical&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmeerRiyaz&theme=react-dark&hide_border=true&area=true&color=A78BFA&line=7B42BC&point=ffffff" alt="Contribution graph" width="100%" />
+
+</div>
+
+### 🏙️ 3D Contribution Skyline
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution skyline" />
 
 </div>
 
@@ -150,6 +242,7 @@ flowchart LR
 
 ---
 
+<a id="contact"></a>
 ## 💬 Let's Connect
 
 <div align="center">
@@ -157,6 +250,7 @@ flowchart LR
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ameerriyaz25@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://in.linkedin.com/in/ameer-riyaz)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/AmeerRiyaz111)
+[![Resume](https://img.shields.io/badge/-Resume-7B42BC?logo=adobeacrobatreader&logoColor=white&style=for-the-badge)](./Shaik_Ameer_Riyaz_Resume.pdf)
 
 <br/>
 
