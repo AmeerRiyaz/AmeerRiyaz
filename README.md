@@ -181,11 +181,11 @@ timeline
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmeerRiyaz&theme=react-dark&hide_border=true&area=true&color=A78BFA&line=7B42BC&point=ffffff" alt="Contribution graph" width="100%" />
 </p>
 
-<h3 align="center">🏙️ 3D Contribution Skyline</h3>
+<!-- <h3 align="center">🏙️ 3D Contribution Skyline</h3>
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution skyline" />
-</p>
+</p> -->
 
 <h3 align="center">🐍 Contribution Snake</h3>
 
